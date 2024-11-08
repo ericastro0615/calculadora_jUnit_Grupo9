@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0df33af-22cb-4a82-8b3f-2afe0793a5a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculadora_Grupo9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entidades/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/entidades/CalculadoraTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/entidades/DivisionCeroTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/entidades/ParameterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/entidades/Testsuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicioParcial_eda2024 2do/ejercicioParcial_eda2024 2do.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicoPacial_eda _2024_2/ejercicoPacial_eda _2024_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicoPacial_eda _2024_2/src/OrganizarPila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../invertirFIlas_Eda/invertirFIlas_Eda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyecto_final_EDA/proyecto_final_EDA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tallerHerencia/src/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tallerHerencia/src/Casa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tallerHerencia/src/Celular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tallerHerencia/src/Hermano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tallerHerencia/src/Hijo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tallerHerencia/src/Madre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tallerHerencia/src/Padre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tallerHerencia/src/Tio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tallerHerencia/tallerHerencia.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2oPK3NYkSiUgUnZ897RkObKasjy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.CalculadoraTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculadoraTest.suma.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DivisionCeroTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DivisionCeroTest.testDivisionDenominadorCero.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ParameterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Testsuite.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Erica/IdeaProjects/calculadora_Grupo9&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="entidades" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="entidades" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculadoraTest.suma">
+    <configuration name="CalculadoraTest.suma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculadora_Grupo9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entidades.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entidades" />
+      <option name="MAIN_CLASS_NAME" value="entidades.CalculadoraTest" />
+      <option name="METHOD_NAME" value="suma" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivisionCeroTest.testDivisionDenominadorCero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculadora_Grupo9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entidades.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entidades" />
+      <option name="MAIN_CLASS_NAME" value="entidades.DivisionCeroTest" />
+      <option name="METHOD_NAME" value="testDivisionDenominadorCero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DivisionCeroTest.testDivisionDenominadorCero" />
+        <item itemvalue="JUnit.CalculadoraTest.suma" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0df33af-22cb-4a82-8b3f-2afe0793a5a0" name="Changes" comment="" />
+      <created>1730765574451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730765574451</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="s.hash" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
